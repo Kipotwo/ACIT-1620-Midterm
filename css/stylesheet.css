@@ -1,0 +1,57 @@
+#menu{
+
+}
+
+body{
+    margin: 0px;
+    background-color: #cbaf87;
+    color: #30475e;
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    position: sticky;
+    border: 10px solid #7e8a97;
+    background-color: #7e8a97;
+
+}
+
+nav{
+    text-align: center;
+}
+
+nav > ul{
+    list-style-type: none;
+}
+
+section{
+    margin: 8px;
+    background-color: #e7dec8;
+}
+
+h1{
+    text-align: center;
+}
+
+h2 + ul{
+    color: teal;
+}
+
+img{
+    height: auto;
+    width: 200px;
+    float: left;
+    margin-right: 10px;
+}
+
+.clear{
+    clear: left;
+}
+
+a:active{
+    color: rgb(31, 183, 221):
+}
+
+a:visited{
+    color: silver
+}
